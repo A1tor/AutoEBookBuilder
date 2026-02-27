@@ -7,6 +7,7 @@ My requirements for this project were:
 4) Various sorting algorithms
 5) Cover code with unit-tests
 
-
 Main feature of this project is runtime compilation of addons a.ka. APIs for different book formats e.g. PDF, DOCS, Fb2, EPub
 These addons could be created manually as a C# class and added to the APIs folder during runtime
+
+![UiScreenshot](UiScreenshot.png)
